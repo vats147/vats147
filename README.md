@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vats147&label=Profile%20views&color=0e75b6&style=flat" alt="vats147" /> </p>
 
-- 🎯 Founder of [pdfcrops.com](https://www.pdfcrops.com)
-
 - 🌱 I’m currently learning **NodeJS**
+  
+- 🎯 Founder of [pdfcrops.com](https://www.pdfcrops.com)
 
 - 👨‍💻 All of my projects are available at [https://devloper-portfolio.vercel.app](https://devloper-portfolio.vercel.app)
 
-- 💬 Ask me about **NodeJS, PHP, C++, Pyhton**
+- 💬 Ask me about **NodeJS, Pyhton, OpenSource**
 
 - 📫 How to reach me **vatsalmangukiya9003@yahoo.com**
 
