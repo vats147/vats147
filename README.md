@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://devloper-portfolio.vercel.app](https://devloper-portfolio.vercel.app)
 
-- 💬 Ask me about **NodeJS, Pyhton, OpenSource**
+- 💬 Ask me about **NodeJS, Python, OpenSource**
 
 - 📫 How to reach me **vatsalmangukiya9003@yahoo.com**
 
