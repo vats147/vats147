@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vats147&label=Profile%20views&color=0e75b6&style=flat" alt="vats147" /> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently working on  **MERN STACK**( Mongodb, Express.js, Node.js, React.js )
   
 - 🎯 Founder of [pdfcrops.com](https://www.pdfcrops.com)
 
