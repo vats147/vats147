@@ -5,10 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=vats147&label=Profile%20views&color=0e75b6&style=flat" alt="vats147" />
 </p>
 
-- 🌱 I’m currently working on **MERN Stack & Flutter**
-  (MongoDB, Express.js, Node.js, React.js, Flutter, Dart)
+- 🌱 I’m currently working on **MERN Stack **
+  (MongoDB, Express.js, Node.js, React.js, Supabase)
 
-- 🎯 Founder of [pdfcrops.com](https://pdfcrops-com.vercel.app)
 
 - 👨‍💻 All of my projects are available at  
   [https://devloper-portfolio.vercel.app](https://devloper-portfolio.vercel.app)
