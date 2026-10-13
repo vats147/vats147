@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=vats147&label=Profile%20views&color=0e75b6&style=flat" alt="vats147" />
 </p>
 
-- 🌱 I’m currently working on **MERN Stack **
+- 🌱 I’m currently working on ** MERN Stack **
   (MongoDB, Express.js, Node.js, React.js, Supabase)
 
 
